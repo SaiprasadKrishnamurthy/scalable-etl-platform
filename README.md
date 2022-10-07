@@ -15,7 +15,7 @@ and easily build integrations that helps your business to onboard customers fast
 
 * This integration platform would be deployed on cloud (Assumed AWS for this design).
 * The source data (customer's ERP) is accessible from cloud (no network constraints).
-* For a minority of customers who are heavily constrained to expose their data a push based mechanism (through a simple
+* For a minority of customers who are heavily constrained to expose their data, a push based mechanism (through a simple
   Data Extract pipeline that runs on the customer premises) could also be an option.
 * The data transformation logic will be developed by Integration Platform Engineers through a Drag and Drop UI and not
   by the end customers.

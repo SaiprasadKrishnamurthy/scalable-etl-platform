@@ -153,6 +153,7 @@ purposes.
 | Quartz          | Distributed scheduler                  | 
 | EC2 ASG          | EC Autoscaling Group for dynamic scaling based on workloads                  | 
 | ReactJS          | For the integration-platform-ui                  | 
+| Apache NiFi          | For on-premise/edge data extraction and push to cloud.                  | 
 
 
 

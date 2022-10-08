@@ -86,7 +86,7 @@ purposes.
   specified in the payload of the message.
 * **AWS Application Load Balancer** - Loadbalancer to balance the load of incoming requests to the microservices.
 * **Spring Boot** - The microservice framework.
-* **AWS ECS** - Managed Kubernetes Service to run and scale the spring-boot microservices.
+* **AWS EKS** - Managed Kubernetes Service to run and scale the spring-boot microservices.
 
 # Flow
 
@@ -155,7 +155,7 @@ purposes.
 | AWS Lambda          | Trigger the Pipeline                  | 
 | SpringBoot          | Java/Kotlin based microservices framework (reactive and non-reactive)                  | 
 | Quartz          | Distributed scheduler                  | 
-| AWS ECS          | Managed Kubernetes service to run and scale the microservices                  | 
+| AWS EKS          | Managed Kubernetes service to run and scale the microservices                  | 
 | ReactJS          | For the integration-platform-ui                  | 
 | Apache NiFi          | For on-premise/edge data extraction and push to cloud.(Optionally only for push based data acquisitions)                  | 
 

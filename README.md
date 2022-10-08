@@ -61,6 +61,8 @@ and easily build integrations that helps your business to onboard customers fast
 
 # High Level Architecture
 
+Diagram drawn using: [yEd](https://www.yworks.com/products/yed)
+
 ![High Level Architecture](./IntegrationPlatform.png?raw=true "High Level Architecture")
 
 # Description
